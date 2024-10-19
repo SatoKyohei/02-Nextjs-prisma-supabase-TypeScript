@@ -2,7 +2,8 @@
 モダンな技術でフルスタックブログ開発をしてみよう【Next.js13/Prisma/Supabase/Typescriptを利用】
 https://www.youtube.com/watch?v=wF3g76z14Gs
 
-
+<br/>
+<br/>
 
 ## 技術スタック
 - Next.js13
