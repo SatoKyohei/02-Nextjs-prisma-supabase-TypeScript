@@ -12,6 +12,25 @@ https://www.youtube.com/watch?v=wF3g76z14Gs
 - Typescript
 - tailwindcss
 
+<br/>
+<br/>
+
+## 学べる点
+- Next.jsのapp routing
+- prismaのセットアップと基本的なAPI作成（GET/POST/PUT/DELETE）
+  - .env
+  - prisma.schema
+  - /app/api
+- 基本的なHooks（useRouter, useRef, useState, useEffectなど）
+- tailwindcssの書き方
+
+<br/>
+<br/>
+
+## 他
+- toastの実装にバグが残っているので、あまり参考にしない方が良いかも
+
+
 <!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
